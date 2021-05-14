@@ -14,7 +14,7 @@
 
 😎Además, creo tutoriales sobre Javascript y Python en mi blog personal.
 
-🧑 Entre mis hobbies se encuentran: Ver series, jugar LOL y leer.
+
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&hide=contribs,prs&theme=merko&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-137DTS&layout=compact&theme=merko)](https://github.com/C-137DTS/github-readme-stats)
 

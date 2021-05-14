@@ -2,7 +2,7 @@
 # Hi! 👋 Soy Juan (@C-137DTS)
 ## Voy a ser Backend developer y Data Scientist alún día.
 
-####🦾Actualmente estoy estudiando Node JS y Python.
+#### 🦾Actualmente estoy estudiando Node JS y Python.
 #### 🧐Cuento con conocimientos en:
 * HTML
 * CSS
@@ -17,5 +17,5 @@
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
-##😃 Follow me:
+## 😃 Follow me:
 *  Twitter: http://twitter.com/C137DTS 

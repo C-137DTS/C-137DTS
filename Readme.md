@@ -42,7 +42,8 @@
 </div>
 
 <br>
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
+
 
 <div class="bg-image">
 	<div

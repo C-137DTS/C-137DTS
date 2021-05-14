@@ -1,6 +1,6 @@
 ![](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 # Hi! 👋 Soy Juan (@C-137DTS)
-## Voy a ser Backend developer y Data Scientist alún día.
+## Voy a ser Backend developer y Data Scientist algún día.
 
 #### 🦾Actualmente estoy estudiando Node JS y Python.
 #### 🧐Cuento con conocimientos en:

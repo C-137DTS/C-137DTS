@@ -42,7 +42,7 @@
 </div>
 
 <br>
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-137DTS&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="bg-image">
 	<div

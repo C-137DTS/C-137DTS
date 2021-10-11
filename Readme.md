@@ -1,18 +1,23 @@
 ![](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-# Hi! 👋 Soy Juan (@C-137DTS)
-## Voy a ser Backend developer y Data Scientist algún día.
+# Hi! 👋 Soy Juan  (@C-137DTS)
+## 👨‍💻 I am student at Platzi, Vue passionate and my dream is to build a better future with my code. 
+## 🚀 And remember never stop learning.
 
-#### 🦾Actualmente estoy estudiando Node JS y Python.
-#### 🧐Cuento con conocimientos en:
+🤖 Hi Human! Actually I have knowledge in: 
 * HTML
 * CSS
 * JavaScript
-* Typescript
-* Python
+* Vue.js
 * Git y GitHub
-* Terminal y linea de comandos
+* CLI
+* NPM
 
-😎Además, creo tutoriales sobre Javascript y Python en mi blog personal.
+🧐 And I can prove this. Just look at my best projects (🤩if you come from IBM, this can interest you):
+
+- [Weather app](https://github.com/C-137DTS/weatherApp "Weather app")
+	In this project I use Vue.js 2, API request and ECMAScript 6+.
+
+
 
 
 
